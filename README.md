@@ -1,2 +1,2 @@
 Markdown
-![ชื่อรูปภาพ]([ลิงก์รูปภาพ])
+![SL.png]([https://github.com/ShopSL/Shop-SL/blob/main/SL.png])
