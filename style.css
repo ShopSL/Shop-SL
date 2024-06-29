@@ -147,8 +147,8 @@ body{
                 right: var(--w-column);
                 width: var(--w-column);
                 height: 100%;
-                border-left: 1px solid #324073;
-                border-right: 1px solid #324073;
+                border-left: 1px solid #32407300;
+                border-right: 1px solid #32407300;
                 pointer-events: none;
             }
             &::before{
@@ -158,8 +158,8 @@ body{
                 height: var(--w-column);
                 width: 100%;
                 top: 52%;
-                border-top: 1px solid #324073;
-                border-bottom: 1px solid #324073;
+                border-top: 1px solid #32407300;
+                border-bottom: 1px solid #32407300;
                 pointer-events: none;
             }
         }
